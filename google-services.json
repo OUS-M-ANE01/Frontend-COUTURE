@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598736673992",
+    "project_id": "couture-app-6e81f",
+    "storage_bucket": "couture-app-6e81f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598736673992:android:69285e3fa4160d56ee59fd",
+        "android_client_info": {
+          "package_name": "com.ous_m_ane.coutureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhydbHUu1Lovf3P3X11Nhpprnj3JXYEX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
